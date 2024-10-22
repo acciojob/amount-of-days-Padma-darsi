@@ -10,4 +10,4 @@ function daysOfAYear(year)
       return 365; // Non-leap year
     }
 }
- daysOfAYear(2022);
+console.log(daysOfAYear(2022));
